@@ -1,0 +1,14 @@
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\bin\Release\netcoreapp2.1\WebApiHotel.deps.json
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\bin\Release\netcoreapp2.1\WebApiHotel.runtimeconfig.json
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\bin\Release\netcoreapp2.1\WebApiHotel.runtimeconfig.dev.json
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\bin\Release\netcoreapp2.1\WebApiHotel.dll
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\bin\Release\netcoreapp2.1\WebApiHotel.pdb
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.csprojAssemblyReference.cache
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.csproj.CoreCompileInputs.cache
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.RazorAssemblyInfo.cache
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.RazorAssemblyInfo.cs
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.AssemblyInfoInputs.cache
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.AssemblyInfo.cs
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.RazorTargetAssemblyInfo.cache
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.dll
+d:\Users\Usuario\Documents\Visual Studio 2017\Projects\WebApiHotel\WebApiHotel\obj\Release\netcoreapp2.1\WebApiHotel.pdb
